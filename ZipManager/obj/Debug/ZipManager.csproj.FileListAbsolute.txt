@@ -1,0 +1,5 @@
+c:\users\ral\documents\visual studio 2012\Projects\ZipManager\ZipManager\bin\Debug\ZipManager.exe.config
+c:\users\ral\documents\visual studio 2012\Projects\ZipManager\ZipManager\bin\Debug\ZipManager.exe
+c:\users\ral\documents\visual studio 2012\Projects\ZipManager\ZipManager\bin\Debug\ZipManager.pdb
+c:\users\ral\documents\visual studio 2012\Projects\ZipManager\ZipManager\obj\Debug\ZipManager.exe
+c:\users\ral\documents\visual studio 2012\Projects\ZipManager\ZipManager\obj\Debug\ZipManager.pdb
